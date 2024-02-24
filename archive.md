@@ -9,6 +9,7 @@ title: أرشيف المدونة
     {% for post in tag[1] %}
       <li><a href="{{ page.url | relative_url }}">{{post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
       <li><a href="{{ post.url | mechatechy}}">{{post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
+       <li><a href="{{ relative_url }}">{{post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
       
     {% endfor %}
   </ul>
