@@ -11,3 +11,8 @@ title: أرشيف المدونة
     {% endfor %}
   </ul>
 {% endfor %}
+   {% for post in tag[2] %}
+      <li><a href="{{ post.url }}">{{post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
