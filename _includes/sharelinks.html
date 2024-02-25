@@ -16,7 +16,18 @@
   #share-buttons > div.pinterest > svg {height: 20px; margin-top: 9px;}
   #share-buttons > div.gplus > svg {height: 17px; margin-top: 9px; position: relative; left: 1px;}
   #share-buttons > div.mail > svg {height: 14px; margin-top: 11px;}
+  #share-buttons > div > svg {height: 16px; fill: #008000; margin-top: 10px;} /* تغيير fill للون الأخضر المزرق */
+#share-buttons > div.facebook:hover > svg {fill: #008000;} /* تغيير لون الأيقونة عند التحويم لتكون أخضر مزرق */
+#share-buttons > div.twitter:hover > svg {fill: #008000;} /* تغيير لون الأيقونة عند التحويم لتكون أخضر مزرق */
+#share-buttons > div.linkedin:hover > svg {fill: #008000;} /* تغيير لون الأيقونة عند التحويم لتكون أخضر مزرق */
+#share-buttons > div.gplus:hover > svg {fill: #008000;} /* تغيير لون الأيقونة عند التحويم لتكون أخضر مزرق */
+#share-buttons > div.mail:hover > svg {fill: #008000;} /* تغيير لون الأيقونة عند التحويم لتكون أخضر مزرق */
+#share-buttons > div.instagram:hover > svg {fill: #008000;} /* تغيير لون الأيقونة عند التحويم لتكون أخضر مزرق */
+
 </style>
+
+
+
 
 {% assign safeurl = site.url | append: page.url | url_encode %}
 {% assign safetitle = page.title | url_encode %}
