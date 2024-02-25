@@ -1,6 +1,10 @@
 # مشروع LightMovementEffect إنشاء تأثير ضوء متحرك باستخدام Arduino
 
-هذا الكود يُشغّل تأثيرًا جذابًا بشكل وميض ضوئي باستخدام لوحة Arduino ومجموعة من الصمامات الثنائية (LEDs). يقوم التأثير بتحريك الضوء يمينًا ويسارًا على مدى المنافذ المحددة.
+
+
+<img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/LME2.png" alt="صورة المشروع" width="300" height="200">
+
+في هذا المشروع سنحاول أن ننشئ تأثير ضوئي باستخدام لوحة Arduino ومجموعة من الصمامات الثنائية (LEDs). يقوم التأثير بتحريك الضوء يمينًا ويسارًا على مدى المنافذ المحددة.
 
 ## التفاصيل الفنية
 
@@ -25,10 +29,6 @@
 - يشير معيار الدبوس Pinout في سياق لوحات Arduino إلى تصميم وتخطيط موقع وظيفة دبوس الإدخال/الإخراج على اللوحة. وهو يحدد تصميم وترتيب وظيفة الدبابيس على لوحات Arduino مثل دبوس الطاقة، الأرضي، دبوس الإدخال/الإخراج الرقمي، إلخ.
 
 ![صورة المشروع](https://github.com/abdelazizyusuf/mechatechy/raw/main/images/LME1.png)
-
-
-<img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/LME1.png" alt="صورة المشروع" width="300" height="200">
-
 
 
 
