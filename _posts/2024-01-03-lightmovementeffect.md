@@ -29,6 +29,10 @@
 ![صورة مشروع أردوينو](https://github.com/abdelazizyusuf/LightMovementEffect/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20LightMovementEffect.png)
 
 
+```html
+<img src="https://github.com/abdelazizyusuf/LightMovementEffect/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20LightMovementEffect.png" alt="صورة مشروع أردوينو">
+```
+![صورة مشروع أردوينو](https://github.com/abdelazizyusuf/LightMovementEffect/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20LightMovementEffect.png)
 
 ## اقتراحات لتحسين المشروع
 
