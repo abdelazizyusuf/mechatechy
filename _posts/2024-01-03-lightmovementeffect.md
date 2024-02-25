@@ -24,14 +24,8 @@
 - يمكن تشغيل الكود على لوحات Arduino Uno و Arduino Nano أو أي لوحة تستخدم معيار دبابيس متشابه
 - يشير معيار الدبوس Pinout في سياق لوحات Arduino إلى تصميم وتخطيط موقع وظيفة دبوس الإدخال/الإخراج على اللوحة. وهو يحدد تصميم وترتيب وظيفة الدبابيس على لوحات Arduino مثل دبوس الطاقة، الأرضي، دبوس الإدخال/الإخراج الرقمي، إلخ.
 
+![صورة المشروع](https://github.com/abdelazizyusuf/mechatechy/raw/main/images/LME1.png)
 
-
-![صورة مشروع أردوينو](https://github.com/abdelazizyusuf/LightMovementEffect/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20LightMovementEffect.png)
-
-
-<img src="https://github.com/abdelazizyusuf/LightMovementEffect/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20LightMovementEffect.png" alt="صورة مشروع أردوينو">
-
-![صورة مشروع أردوينو](https://github.com/abdelazizyusuf/LightMovementEffect/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20LightMovementEffect.png)
 
 ## اقتراحات لتحسين المشروع
 
