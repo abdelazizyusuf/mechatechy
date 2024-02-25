@@ -27,6 +27,11 @@
 ![صورة المشروع](https://github.com/abdelazizyusuf/mechatechy/raw/main/images/LME1.png)
 
 
+<img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/LME1.png" alt="صورة المشروع" width="300" height="200">
+
+
+
+
 ## اقتراحات لتحسين المشروع
 
 
