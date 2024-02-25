@@ -1,6 +1,6 @@
 ---
 layout: page
-title: أرشيف المدونة
+title:  أرشيف المدونة 
 ---
 
 {% for tag in site.tags %}
