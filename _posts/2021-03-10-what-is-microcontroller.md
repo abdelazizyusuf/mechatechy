@@ -10,7 +10,7 @@
 + ذواكر  Memories: مساحات تخزينية وتكون من ذاكرة القراءة فقط (ROM) وذاكرة الوصول العشوائي (RAM).
 + حواف Edges:
 + مداخل ومخارج Inputs/outputs: هي وسيلة تواصل المتحكم الدقيق مع العالم الخارجي.
-![مكونات المتحكمات الدقيقة]([https://github.com/abdelazizyusuf/mechatechy/blob/main/images/LME1.png](https://github.com/abdelazizyusuf/mechatechy/blob/main/images/what-is-microcontroller1-1.png))
+![مكونات المتحكمات الدقيقة]([https://github.com/abdelazizyusuf/mechatechy/blob/main/images/what-is-microcontroller1-1.png])
 
 طورت إنتل أول معالج على شريحة single-chip processor  عام 1971 تحت اسم إنتل 4004. وكانت وحدة المعالجة المركزية (CPU) لهذا المعالج تعمل بنظام 4 بت. لاحقًا تطورت الأمور بسرعة كبيرة وطُورت الكثير من المعالجات التي استخدمت في العديد من الأجهزة مثل الحواسيب والهواتف والشاشات وغيرها من الأجهزة الذكية فكل هذه الأجهزة تعتمد على المعالجات أو المتحكمات الدقيقة لتعمل.
 
