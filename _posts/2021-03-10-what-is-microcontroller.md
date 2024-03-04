@@ -10,15 +10,17 @@
 + ذواكر  Memories: مساحات تخزينية وتكون من ذاكرة القراءة فقط (ROM) وذاكرة الوصول العشوائي (RAM).
 + حواف Edges:
 + مداخل ومخارج Inputs/outputs: هي وسيلة تواصل المتحكم الدقيق مع العالم الخارجي.
-![مكونات المتحكمات الدقيقة]([https://github.com/abdelazizyusuf/mechatechy/blob/main/images/what-is-microcontroller1-1.png])
+
++ <img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/what-is-microcontroller1-1.png" alt="مكونات المتحكمات الدقيقة" width="300">
+
 
 طورت إنتل أول معالج على شريحة single-chip processor  عام 1971 تحت اسم إنتل 4004. وكانت وحدة المعالجة المركزية (CPU) لهذا المعالج تعمل بنظام 4 بت. لاحقًا تطورت الأمور بسرعة كبيرة وطُورت الكثير من المعالجات التي استخدمت في العديد من الأجهزة مثل الحواسيب والهواتف والشاشات وغيرها من الأجهزة الذكية فكل هذه الأجهزة تعتمد على المعالجات أو المتحكمات الدقيقة لتعمل.
 
 ## الفرق بين المعالجات الدقيقة والمتحكمات
 
 لعلك تتساءل ما الفرق بين المعالج أو حدة المعالجة المركزية CPU وبين المتحكم الدقيق microcontroller؟ وإليك الجواب باختصار المتحكمات الدقيقة هي معالجات تستهلك موارد من المعالجات فهي أقل حجمًا وتكلفة واستهلاكًا للطاقة. وهي مناسبة لتصميم لبرامج المضمنة التي تتحكم في محركات السيارات، وأجهزة التحكم عن بعد والطابعات والأدوات المنزلية، وألعاب الأطفال، والهواتف الخلوية وغيرها الكثير من الأجهزة من حولنا.
++ <img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/cpu-v-microporcessor.png" alt="خطوات التعامل مع أردوينو" width="300">
 
-![الفرق بين المعالج والمتحكم الدقيق]([https://github.com/abdelazizyusuf/mechatechy/blob/main/images/LME1.png](https://github.com/abdelazizyusuf/mechatechy/blob/main/images/cpu-v-microporcessor.png))
 
 ## أنواع المتحكمات الدقيقة
 
@@ -52,7 +54,7 @@
 
 ## خطوات التعامل مع لوحات أردوينو
 
-![خطوات التعامل مع أردينو]([https://github.com/abdelazizyusuf/mechatechy/blob/main/images/LME1.png](https://github.com/abdelazizyusuf/mechatechy/blob/main/images/what-is-microcontroller1-2.png))
++ <img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/what-is-microcontroller1-2" alt="خطوات التعامل مع أردوينو" width="300">
 
 لجعل لوحة أردوينو Arduino تعمل بالشكل المطلوب عليك بداية وصف المشروع أو خطوات العمل التي تريد اتباعها بدقة فالوصف المفصل الدقيق هو مفتاح نجاح مشروعك.
 
@@ -66,9 +68,9 @@
 +  بعدها ستقوم بتوصيل الزر ومصباح LED بلوحة أردوينو باستخدام الأسلاك، باتباع مخطط تخطيطي يوضح دبابيس التوصيل المحددة لكل مكون.
 +  +سترفع التعليمات البرمجية للوحة وتختبر عملها وتصحح أي أخطاء برمجية.
 
-## ما هو برنامج Bootloader
++ <img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/what-is-microcontroller1-3" alt="Bootloader" width="300">
 
-![Bootloader]([https://github.com/abdelazizyusuf/mechatechy/blob/main/images/LME1.png](https://github.com/abdelazizyusuf/mechatechy/blob/main/images/what-is-microcontroller1-3.png))
+
 تتضمن لوحة أردوينو نوعين من البرامج الأول هو برنامج الإقلاع Bootloader يكون محمل مسبقًا على اللوحة والثاني هو برنامج ثنائي ثابت** binary firmware وهو البرنامج المضمن المستخدم لبرمجة اللوحة كما نريد.
 
 ## برامج مفيدة للتعامل مع لوحات أردينو
