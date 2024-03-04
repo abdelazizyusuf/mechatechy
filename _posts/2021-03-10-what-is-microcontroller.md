@@ -21,7 +21,7 @@
 
 لعلك تتساءل ما الفرق بين المعالج أو حدة المعالجة المركزية CPU وبين المتحكم الدقيق microcontroller؟ وإليك الجواب باختصار المتحكمات الدقيقة هي معالجات تستهلك موارد من المعالجات فهي أقل حجمًا وتكلفة واستهلاكًا للطاقة. وهي مناسبة لتصميم لبرامج المضمنة التي تتحكم في محركات السيارات، وأجهزة التحكم عن بعد والطابعات والأدوات المنزلية، وألعاب الأطفال، والهواتف الخلوية وغيرها الكثير من الأجهزة من حولنا.
 
-<img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/cpu-v-microporcessor.png" alt="خطوات التعامل مع أردوينو">
+<img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/cpu-v-microporcessor.png" alt="الفرق بين المعالجات الدقيقة والمتحكمات" width="300" >
 
 
 
@@ -58,7 +58,7 @@
 ## خطوات التعامل مع لوحات أردوينو
 
 
-<img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/what-is-microcontroller1-2.png" alt="خطوات التعامل مع أردوينو" >
+<img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/what-is-microcontroller1-2.png" alt="خطوات التعامل مع أردوينو"  >
 
 
 لجعل لوحة أردوينو Arduino تعمل بالشكل المطلوب عليك بداية وصف المشروع أو خطوات العمل التي تريد اتباعها بدقة فالوصف المفصل الدقيق هو مفتاح نجاح مشروعك.
