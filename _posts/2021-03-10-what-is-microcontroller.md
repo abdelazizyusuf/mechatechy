@@ -12,7 +12,7 @@
 + مداخل ومخارج Inputs/outputs: هي وسيلة تواصل المتحكم الدقيق مع العالم الخارجي.
   
 
- <img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/what-is-microcontroller1-1.png" alt="مكونات المتحكمات الدقيقة" width=300  >
+ <img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/what-is-microcontroller1-1.png" alt="مكونات المتحكمات الدقيقة" width="300"  >
 
 
 طورت إنتل أول معالج على شريحة single-chip processor  عام 1971 تحت اسم إنتل 4004. وكانت وحدة المعالجة المركزية (CPU) لهذا المعالج تعمل بنظام 4 بت. لاحقًا تطورت الأمور بسرعة كبيرة وطُورت الكثير من المعالجات التي استخدمت في العديد من الأجهزة مثل الحواسيب والهواتف والشاشات وغيرها من الأجهزة الذكية فكل هذه الأجهزة تعتمد على المعالجات أو المتحكمات الدقيقة لتعمل.
@@ -74,7 +74,7 @@
 +  رفع التعليمات البرمجية للوحة وتختبر عملها وتصحح أي أخطاء برمجية
 
 
-<img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/what-is-microcontroller1-3.png" alt="Bootloader" width=300 >
+<img src="https://github.com/abdelazizyusuf/mechatechy/raw/main/images/what-is-microcontroller1-3.png" alt="Bootloader" width="300" >
 
 
 تتضمن لوحة أردوينو نوعين من البرامج الأول هو برنامج الإقلاع Bootloader يكون محمل مسبقًا على اللوحة والثاني هو برنامج ثنائي ثابت** binary firmware وهو البرنامج المضمن المستخدم لبرمجة اللوحة كما نريد.
